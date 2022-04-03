@@ -14,8 +14,9 @@ let navbar = () => {
     <p>BANGALORE</p>
     <img id="location" src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_26,ar_1,q_auto:eco,dpr_1.25,f_auto,fl_progressive/image/test/header/location.png">
     <p id="getApp">GET APP</p>
-    <img id="userPic" src="https://static.cure.fit/assets/images/user-default.png">
-    <img id="cart" src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,q_auto:eco,dpr_1.25,f_auto,fl_progressive//image/test/cart-dark-theme.svg">
+    <a  href="http://localhost:3100/register">register</a>
+    <a href="http://localhost:3100/register><img id="userPic" src="https://static.cure.fit/assets/images/user-default.png"></a>
+     <img id="cart" src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,q_auto:eco,dpr_1.25,f_auto,fl_progressive//image/test/cart-dark-theme.svg">
 </div>`;
 }
 

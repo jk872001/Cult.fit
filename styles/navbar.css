@@ -6,7 +6,11 @@ body {
   width: 100%;
   font-family: "BrandonTextWeb-Regular";
 }
-
+#hmm{
+  font-size: 35px;
+  color: aliceblue;
+  font-weight: bold;
+}
 #navbar {
   display: flex;
   justify-content: space-between;
